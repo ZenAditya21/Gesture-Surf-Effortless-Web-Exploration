@@ -1,8 +1,8 @@
 # Gesture-Surf-Effortless-Web-Exploration
 
-# The aim of a "Gesture surf :Effortless Web Exploration" project is to develop a system that allows users to interact with a web browser using hand gestures captured by a camera. The primary goal is to create a seamless and intuitive method for navigating web content without the need for traditional input devices like a mouse or keyboard.
+The aim of a "Gesture surf :Effortless Web Exploration" project is to develop a system that allows users to interact with a web browser using hand gestures captured by a camera. The primary goal is to create a seamless and intuitive method for navigating web content without the need for traditional input devices like a mouse or keyboard.
 
-# It's a Machine learning Project use of open Source Libararies & Framework's such as MediaPipe and OpenCV... and also it's my final year major project😎😎
+It's a Machine learning Project use of open Source Libararies & Framework's such as MediaPipe and OpenCV... and also it's my final year major project😎😎
 
 # Hardware:
 • Operating System: Window 10/11, 64 bits.
